@@ -6,6 +6,7 @@ Files | Description |
 **dia_nacimiento.c** |solicitud dia de nacimiento de el usuario.|
 **sentencias_repetitivas.c** |validacion de contraseña mediante el do while.|
 **area_triangulo.c** |hallar el area de un triangulo mediante una funcion.|
+**puntero.c** |solicitud de direccion de memoria mendiante punteros.|
 
 ## Author
 
