@@ -4,6 +4,7 @@
 Files | Description |
 -------- | ----------- |
 **dia_nacimiento.c** |solicitud dia de nacimiento de el usuario.|
+**sentencias_repetitivas.c** |validacion de contraseña median el do while.|
 
 ## Author
 
